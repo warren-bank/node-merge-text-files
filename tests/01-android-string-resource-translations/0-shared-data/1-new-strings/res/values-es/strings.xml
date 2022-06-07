@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="menu_context_view_serie_details">Detalles de la serie</string>
+<string name="menu_context_view_imdb">Detalles en IMDb</string>
+<string name="menu_context_view_ep_imdb">Próximo episodio en IMDb</string>
+<string name="menu_context_search_on">Detalles en</string>
+<string name="menu_context_ext_resources">Recursos externos</string>
+<string name="menu_context_mark_next_episode_as_seen">Marcar el siguiente ep. como visto</string>
+</resources>

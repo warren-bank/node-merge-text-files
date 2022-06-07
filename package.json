@@ -1,0 +1,23 @@
+{
+  "name": "@warren-bank/merge-text-files",
+  "version": "1.0.0",
+  "main": "lib/process_cli.js",
+  "description": "Insert lines of text from files in a source directory into corresponding files in a target directory using landmarks within the target text files to determine the insertion points.",
+  "author": "Warren Bank (https://github.com/warren-bank)",
+  "license": "GPL-2.0",
+  "bin": {
+    "mtf": "bin/mtf.js"
+  },
+  "dependencies": {
+    "@warren-bank/node-process-argv": "^1.2.1"
+  },
+  "author": {
+    "name": "Warren R. Bank",
+    "email": "warren.r.bank@gmail.com",
+    "url": "https://github.com/warren-bank"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/warren-bank/node-merge-text-files"
+  }
+}

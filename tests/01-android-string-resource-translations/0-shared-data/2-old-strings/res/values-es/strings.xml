@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="layout_search_no_items">No se encontró ninguna serie.</string>
+<string name="layout_seasons_no_items">No hay temporadas que mostrar.</string>
+<string name="addserie_hint">Nombre de la serie…</string>
+<string name="search_hint">Buscar…</string>
+<string name="menu_filter">Filtros</string>
+<string name="menu_undo">Deshacer</string>
+<string name="menu_add_serie">Añadir una serie</string>
+<string name="menu_update">Actualizar las series</string>
+<string name="menu_search">Buscar</string>
+<string name="menu_sort">Programas de clasificación</string>
+<string name="menu_about">Opciones</string>
+<string name="menu_exit">Salir</string>
+</resources>

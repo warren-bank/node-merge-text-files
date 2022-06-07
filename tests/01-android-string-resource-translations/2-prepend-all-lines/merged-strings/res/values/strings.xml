@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="menu_context_view_serie_details">Show details</string>
+<string name="menu_context_view_imdb">IMDb show page</string>
+<string name="menu_context_view_ep_imdb">IMDb episode page</string>
+<string name="menu_context_search_on">Search on</string>
+<string name="menu_context_ext_resources">External resources</string>
+<string name="menu_context_mark_next_episode_as_seen">Mark next episode as seen</string>
+<string name="layout_search_no_items">No shows found.</string>
+<string name="layout_seasons_no_items">No seasons to display.</string>
+<string name="addserie_hint">Show to add…</string>
+<string name="search_hint">Search…</string>
+<string name="menu_filter">Filter shows</string>
+<string name="menu_undo">Undo</string>
+<string name="menu_add_serie">Add a show</string>
+<string name="menu_update">Update shows</string>
+<string name="menu_search">Search</string>
+<string name="menu_sort">Sort shows</string>
+<string name="menu_about">Options</string>
+<string name="menu_exit">Exit</string>
+</resources>

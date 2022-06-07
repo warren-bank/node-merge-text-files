@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="layout_search_no_items">Keine Serien gefunden.</string>
+<string name="layout_seasons_no_items">Keine Staffeln gefunden.</string>
+<string name="addserie_hint">Serie hinzufügen</string>
+<string name="search_hint">Serie suchen</string>
+<string name="menu_filter">Serien filtern</string>
+<string name="menu_undo">Rückgängig</string>
+<string name="menu_add_serie">Serie hinzufügen</string>
+<string name="menu_update">Serien aktualisieren</string>
+<string name="menu_search">Suchen</string>
+<string name="menu_sort">Sortiervorgänge</string>
+<string name="menu_about">Einstellungen</string>
+<string name="menu_exit">Beenden</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="menu_context_view_serie_details">Détails de la série</string>
+<string name="menu_context_view_imdb">page IMDb de la série</string>
+<string name="menu_context_view_ep_imdb">page IMDb de l\'épisode</string>
+<string name="menu_context_search_on">Chercher sur</string>
+<string name="menu_context_ext_resources">Ressources externes</string>
+<string name="menu_context_mark_next_episode_as_seen">Marquer l\'épisode suivant comme vu</string>
+<string name="layout_search_no_items">Aucune série trouvée.</string>
+<string name="layout_seasons_no_items">Aucune saison à afficher.</string>
+<string name="addserie_hint">Série à ajouter…</string>
+<string name="search_hint">Recherche…</string>
+<string name="menu_filter">Filtre</string>
+<string name="menu_undo">Annuler</string>
+<string name="menu_add_serie">Ajouter une série</string>
+<string name="menu_update">Mettre à jour les séries</string>
+<string name="menu_search">Chercher</string>
+<string name="menu_sort">Trier les séries</string>
+<string name="menu_about">Options</string>
+<string name="menu_exit">Quitter</string>
+</resources>
