@@ -118,6 +118,7 @@ options (general):
           before_dst_line_contains: '</resources>'
         }
       ]
+```
 
 #### Caveats:
 
